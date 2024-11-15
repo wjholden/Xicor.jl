@@ -1,5 +1,6 @@
 using Xicor
 using Test
+using StatsBase
 
 @testset "Xicor.jl" begin
     X = [1, 2, 3, 5]
